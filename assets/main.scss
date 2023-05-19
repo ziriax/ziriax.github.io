@@ -1,0 +1,24 @@
+---
+---
+$base-font-size:   18px !default;
+
+@import "minima";
+
+.post-content {
+    h1 {
+        font-size: 1.75em;
+        font-weight: bold;
+    }
+    h2 {
+        font-size: 1.25em;
+    }
+    h3 {
+        font-size: 1.1em;
+    }
+    
+    blockquote {
+        letter-spacing: normal;
+    }
+    
+}
+
