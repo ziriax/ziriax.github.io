@@ -22,8 +22,8 @@ title: Peter's Mind Maze
 email: cbxbs1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Various brain dumps about mathematics and programming
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://ziriax.github.io
+baseurl: ""
 twitter_username: ziriax
 github_username:  ziriax
 google-site-verification: wNM7Oq7IOfPF_-gZJKNFjh3ux-vF7fOxmMk4Z9xxvAg
