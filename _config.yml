@@ -21,12 +21,25 @@
 title: Peter's Mind Maze
 email: cbxbs1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Various brain dumps about mathematics and programming
+  Intuitive explanations of mathematics and programming: imaginary and complex numbers, the Pythagorean theorem, geometric algebra, and more.
 url: https://ziriax.github.io
 baseurl: ""
+lang: en
+locale: en_US
+author:
+  name: Peter Verswyvelen
+image: /assets/erroba.jpg
+logo: /assets/erroba.jpg
+social:
+  name: Peter Verswyvelen
+  links:
+    - https://github.com/ziriax
+    - https://twitter.com/ziriax
+# Google Analytics 4 measurement ID (looks like G-XXXXXXXXXX); only emitted in production builds
+google_analytics: G-XYYW2CSE11
 twitter_username: ziriax
 github_username:  ziriax
-google-site-verification: wNM7Oq7IOfPF_-gZJKNFjh3ux-vF7fOxmMk4Z9xxvAg
+google_site_verification: wNM7Oq7IOfPF_-gZJKNFjh3ux-vF7fOxmMk4Z9xxvAg
 
 
 # Build settings
@@ -35,6 +48,7 @@ plugins:
   - jekyll-feed
   - jekyll-latex
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
